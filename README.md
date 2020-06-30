@@ -1,7 +1,10 @@
 # demo0630
 <<<<<<< HEAD
+<<<<<<< HEAD
 这是github demo0630
 =======
+=======
+>>>>>>> fab0a95bda39383492d83ebf4d3a80c4f7fefb98
 
 #### 介绍
 0630
@@ -38,4 +41,7 @@
 4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
 5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
 6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+<<<<<<< HEAD
 >>>>>>> 335f72f... Initial commit
+=======
+>>>>>>> fab0a95bda39383492d83ebf4d3a80c4f7fefb98
